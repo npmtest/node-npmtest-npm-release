@@ -1,6 +1,6 @@
 # npmtest-npm-release
 
-#### test coverage for  [npm-release (v1.0.0)](https://github.com/phuu/npm-release#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-npm-release.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-npm-release) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-npm-release.svg)](https://travis-ci.org/npmtest/node-npmtest-npm-release)
+#### basic test coverage for  [npm-release (v1.0.0)](https://github.com/phuu/npm-release#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-npm-release.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-npm-release) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-npm-release.svg)](https://travis-ci.org/npmtest/node-npmtest-npm-release)
 
 #### Tiny tool for releasing npm modules.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-npm-release/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-npm-release/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-npm-release/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-npm-release/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-npm-release/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-npm-release/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-npm-release/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-npm-release/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-npm-release/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-npm-release/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-npm-release/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-npm-release/build/coverage.html/index.html)
 
